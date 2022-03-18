@@ -1,6 +1,6 @@
 const typedText = document.querySelector(".text");
 
-const textArr = ["Pratham", "A Programmer", "A Developer", "A Coding Enthusiast"];
+const textArr = ["Pratham", "A Programmer", "A Game Developer", "A Coding Enthusiast"];
 const typingDelay = 200;
 const erasingDelay = 100;
 const newTextDelay = 2000;
