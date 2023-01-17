@@ -7,7 +7,7 @@ class Experience extends React.Component {
     render() {
         return(
             <section id="experience">
-                <h2>What Skills I Have</h2>
+                <h2>Skills I Have</h2>
                 <h1>My Skills</h1>
 
                 <div className="container experience__container">

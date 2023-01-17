@@ -57,7 +57,7 @@ class Portfolio extends React.Component {
     render() {
         return(
             <section id="portfolio">
-                <h2>What Projects Have I Worked On</h2>
+                <h2>Projects I Have Worked On</h2>
                 <h1>Featured Projects</h1>
 
                 <div className="container portfolio__container">
