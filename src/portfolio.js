@@ -6,7 +6,7 @@ import level_up from './images/level-up.png';
 import fake_product_identifier from './images/fake-product-identifier.jpg';
 import space_shooter from './images/space-shooter.png';
 import minesweeper from './images/minesweeper.jfif';
-import clock from './images/clock.png';
+import natours from './images/natours.png';
 
 const projects = [
     {
@@ -18,17 +18,17 @@ const projects = [
     },
     {
         id: 2,
+        image: natours,
+        title: 'Natours',
+        github: 'https://github.com/JoKeR-VIKING/Natours',
+        live: 'https://joker-viking.github.io/Natours/',
+    },
+    {
+        id: 3,
         image: level_up,
         title: 'Level Up',
         github: 'https://github.com/JoKeR-VIKING/LevelUp',
         live: 'https://levelup-r5gg.onrender.com/',
-    },
-    {
-        id: 3,
-        image: clock,
-        title: 'Clock',
-        github: 'https://github.com/JoKeR-VIKING/Clock',
-        live: 'https://joker-viking.github.io/Clock/',
     },
     {
         id: 4,
