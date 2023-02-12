@@ -7,6 +7,8 @@ import fake_product_identifier from './images/fake-product-identifier.jpg';
 import space_shooter from './images/space-shooter.png';
 import minesweeper from './images/minesweeper.jfif';
 import natours from './images/natours.png';
+import nexter from './images/nexter.png';
+import trillo from './images/trillo.png';
 
 const projects = [
     {
@@ -25,14 +27,14 @@ const projects = [
     },
     {
         id: 3,
-        image: natours,
+        image: nexter,
         title: 'Nexter',
         github: 'https://github.com/JoKeR-VIKING/Nexter',
         live: 'https://joker-viking.github.io/Nexter/',
     },
     {
         id: 4,
-        image: natours,
+        image: trillo,
         title: 'Trillo',
         github: 'https://github.com/JoKeR-VIKING/Trillo',
         live: 'https://joker-viking.github.io/Trillo/',
