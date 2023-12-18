@@ -24,7 +24,7 @@ const projects = [
         image: sociaza,
         title: 'Sociaza',
         github: 'https://github.com/JoKeR-VIKING/Sociaza-Backend',
-        live: 'https://sociaza-app.onrender.com'
+        live: 'https://sociaza.netlify.app/'
     },
     {
         id: 3,
