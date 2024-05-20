@@ -31,7 +31,7 @@ const Home = () => {
                         animate='show'
                         exit='hidden'
                         className={ `h3 mb-10 xl:mb-8 text-accent after:transition-all after:duration-100 cursor-pointer capitalize xl:text-lg 
-                            relative after:w-24 after:h-[2px] after:bg-white after:absolute after:-bottom-1 after:left-0 flex items-center`
+                            relative after:w-24 after:h-[2px] after:bg-white after:absolute after:-bottom-1 after:left-0 flex items-center z-10`
                         }
                         onClick={() => {
                             window.open('https://drive.google.com/file/d/1frxFVrmVybyxZQimInIgZCkqxthLjJ24/view', '_blank');
