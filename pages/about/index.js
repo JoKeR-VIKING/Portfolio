@@ -147,15 +147,15 @@ const About = () => {
         <div className={ `h-full py-32 text-center xl:text-left mt-14` }>
             <Circles />
 
-            <motion.div
-                className={ `hidden xl:flex max-w-[650px] max-h-[591px] absolute bottom-0 -left-[370px]` }
-                variants={ fadeIn('right', 0.2) }
-                initial='hidden'
-                animate='show'
-                exit='hidden'
-            >
-                <Avatar />
-            </motion.div>
+            {/*<motion.div*/}
+            {/*    className={ `hidden xl:flex max-w-[650px] max-h-[591px] absolute bottom-0 -left-[370px]` }*/}
+            {/*    variants={ fadeIn('right', 0.2) }*/}
+            {/*    initial='hidden'*/}
+            {/*    animate='show'*/}
+            {/*    exit='hidden'*/}
+            {/*>*/}
+            {/*    <Avatar />*/}
+            {/*</motion.div>*/}
 
             <div className={ `container mx-auto h-full flex flex-col items-center xl:flex-row gap-x-6` }>
                 <div className={ `flex flex-1 flex-col justify-center` }>
