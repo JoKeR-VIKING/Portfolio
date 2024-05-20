@@ -12,7 +12,7 @@ function MyApp({ Component, pageProps }) {
     return (
         <Layout>
             <Head>
-                <link rel="icon" href="/avatar1.png" />
+                <link rel="icon" href="/avatar2.png" />
                 <title>Pratham's Portfolio</title>
             </Head>
 

@@ -7,7 +7,7 @@ export const Avatar = () => {
                 className={ `translate-z-0 w-full h-full select-none` }
                 width={ 737 }
                 height={ 678 }
-                src={ '/avatar1.png' }
+                src={ '/avatar2.png' }
                 alt=''
             />
         </div>
