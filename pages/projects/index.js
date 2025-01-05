@@ -30,7 +30,7 @@ const Projects = () => {
                             exit='hidden'
                             className={ `p xl:mt-8` }
                         >
-                            I've developed innovative projects like Sociaza for social networking, Trillo for travel booking, Nexter for real estate, Natours for adventure tours, and AutoQA for automated testing. Each project showcases my dedication to user-centric design and cutting-edge technology.
+                            I've developed innovative projects like Chatty for chatting, Sociaza for social networking, Trillo for travel booking, Nexter for real estate, Natours for adventure tours, and AutoQA for automated testing. Each project showcases my dedication to user-centric design and cutting-edge technology.
                         </motion.p>
                     </div>
 
