@@ -3,9 +3,14 @@ const projectSlides = {
         {
             images: [
                 {
+                    title: 'Chatty',
+                    path: '/chatty.png',
+                    link: 'https://chatty-pratham.vercel.app/'
+                },
+                {
                     title: 'Sociaza',
                     path: '/sociaza.png',
-                    link: 'https://sociaza.netlify.app/'
+                    link: 'https://github.com/JoKeR-VIKING/sociaza-backend/'
                 },
                 {
                     title: 'AutoQA',
@@ -17,11 +22,6 @@ const projectSlides = {
                     path: '/natours.png',
                     link: 'https://joker-viking.github.io/Natours/'
                 },
-                {
-                    title: 'Nexter',
-                    path: '/nexter.png',
-                    link: 'https://joker-viking.github.io/Nexter/'
-                }
             ],
         },
         {
@@ -30,7 +30,12 @@ const projectSlides = {
                     title: 'Trillo',
                     path: '/trillo.png',
                     link: 'https://joker-viking.github.io/Trillo/'
-                }
+                },
+                {
+                    title: 'Nexter',
+                    path: '/nexter.png',
+                    link: 'https://joker-viking.github.io/Nexter/'
+                },
             ]
         }
     ]
